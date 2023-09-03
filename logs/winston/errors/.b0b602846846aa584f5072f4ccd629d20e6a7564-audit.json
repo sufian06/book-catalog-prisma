@@ -24,6 +24,11 @@
             "date": 1693753029545,
             "name": "E:\\Web Development\\programming hero\\level 2\\mission-6\\assignment-2\\book-catalog-prisma\\logs\\winston\\errors\\phu-2023-03-09-20-error.log",
             "hash": "58ccc7672ed8314f50a0c48d119dd7646aaadfd48c6d97353a02ab88f32f7e51"
+        },
+        {
+            "date": 1693754419822,
+            "name": "E:\\Web Development\\programming hero\\level 2\\mission-6\\assignment-2\\book-catalog-prisma\\logs\\winston\\errors\\phu-2023-03-09-21-error.log",
+            "hash": "ed0241289c944ae1871a2af6f8684ab59626ffb7a53a589dbb135fda567a9808"
         }
     ],
     "hashType": "sha256"
