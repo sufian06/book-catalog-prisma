@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Web Development\\programming hero\\level 2\\mission-6\\assignment-2\\book-catalog-prisma\\logs\\winston\\successes\\.1768c3c5795f0c690adaa49297b31abe86156d58-audit.json",
+    "files": [
+        {
+            "date": 1693734705882,
+            "name": "E:\\Web Development\\programming hero\\level 2\\mission-6\\assignment-2\\book-catalog-prisma\\logs\\winston\\successes\\phu-2023-03-09-15-success.log",
+            "hash": "6f53b0ba053e76518380e7d18dbfa639751673d872ae33e649da1b22ee2d2c48"
+        },
+        {
+            "date": 1693741316267,
+            "name": "E:\\Web Development\\programming hero\\level 2\\mission-6\\assignment-2\\book-catalog-prisma\\logs\\winston\\successes\\phu-2023-03-09-17-success.log",
+            "hash": "912a39917258105ac40a36392993fe6ae9d222ada1a95e0d3507fb3be7012db8"
+        }
+    ],
+    "hashType": "sha256"
+}
